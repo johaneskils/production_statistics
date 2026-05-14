@@ -113,6 +113,24 @@ instruments.csv
 production_results.csv
 ```
 
+The access_rules.csv file is not randomly generated in this demo
+
+```text
+access_rules.csv defines ward access and ward rotation rules.
+
+employed_at,access_unit,access_type
+A1,A1,N
+A1,A3,R
+A2,A1,R
+...
+
+Description:
+
+employed_at  = user's home ward
+access_unit  = ward the user can access
+access_type  = N (normal/home access) or R (rotation/remote access)
+```
+
 
 ## Repository Note
 

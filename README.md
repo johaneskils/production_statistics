@@ -113,5 +113,9 @@ instruments.csv
 production_results.csv
 ```
 
-## Notes
-The repository also contains all result files that are generated
+
+## Repository Note
+
+All generated CSV result files and chart images are included directly in the repository for simplicity and transparency.
+
+In a larger production system these files would normally be separated into dedicated output directories or generated dynamically.

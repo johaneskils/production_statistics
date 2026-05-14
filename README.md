@@ -112,3 +112,6 @@ access_rules.csv
 instruments.csv
 production_results.csv
 ```
+
+## Notes
+The repository also contains all result files that are generated
